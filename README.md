@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm an electronics engineering student passionate about machines and coding, with a keen interest in ML and AI.</h2>
+<h2 align="left">Hi 👋! I'm an Electronics Engineering Undergrad student passionate about machines and coding, with a keen interest in ML and AI.</h2>
 
 ###
 
